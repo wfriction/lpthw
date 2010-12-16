@@ -1,0 +1,7 @@
+* fab-publish
+** fabfile.py
+*** from __future__ import with_statement (allows allows you to use with statement, in 2.5, works in 2.6 already)
+*** from fabric.api import * (allowing for ssh)
+*** from sys import path as PYTHON_PATH (changes where it looks for modules)
+*** from os import path, walk (functions to deal with path names/long filenames, and , walk goes recursively into directories)
+*** BASEDIR = path.abspath(path.join(path.dirname(__file__))) (

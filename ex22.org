@@ -1,0 +1,45 @@
+# write down every word and symbol used, if you don't know what it does search online, use it
+# write every character?
+
+| Symbol                      | Function                                                  |
+|-----------------------------+-----------------------------------------------------------|
+| "                           | quotation mark                                            |
+| '                           | single quotation mark                                     |
+| #                           | comment                                                   |
+| +                           | add the values                                            |
+| -                           | subtract the values                                       |
+| /                           | divide the values                                         |
+| *                           | multiply the values                                       |
+| %                           | remainder of x / y                                        |
+| >                           | greater than                                              |
+| <                           | less than                                                 |
+| >=                          | greater/equal                                             |
+| <=                          | less/equal                                                |
+| =                           | set the value of something                                |
+| %s                          | format string for string                                  |
+| %d                          | format string for integer                                 |
+| %r                          | format string for anything                                |
+| \n                          | newline character                                         |
+| """                         | triple quote for textblock                                |
+| \'                          | escape seq for '                                          |
+| \"                          | escape seq for "                                          |
+| \t                          | escape seq for a tab                                      |
+| \\                          | escape seq for \                                          |
+| print                       | print the text                                            |
+| "%r" % 1                    | prints the thing                                          |
+| raw_input("Action.")        | lets you store input as var                               |
+| from sys import argv        | imports the argument module                               |
+| file = open(filename, '%%') | open the file, %%=w write                                 |
+| file.read()                 | read the file (can print this)                            |
+| file.truncate()             | delete the contents of the file                           |
+| file.write("text")          | write this text to the file                               |
+| file.close()                | close the file and write pending changes                  |
+| from os.path import exists  | import the exists module                                  |
+| exists(filename)            | check if the file exists                                  |
+| def name(arg1, arg2):       | define a function                                         |
+| file.seek(bytes)            | go to that point in the file                              |
+| file.readline()             | ?starts at current pt in file, reads line and moves seek? |
+| return x                    | used in a function, so you can define variables by the fn |
+|                             |                                                           |
+  
+

@@ -1,0 +1,10 @@
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+print "Guess: python, answer: %s" % animals[1]
+print "G: peacock, answer: %s" % animals[2]
+print "G: bear, a: %s" % animals[0]
+print "G: kangaroo, a: %s" % animals[3]
+print "G: whale, a: %s" % animals[4]
+print "G: peacock, a: %s" % animals[2]
+print "G: platypus, a: %s" % animals[5]
+print "G: whale, a: %s" % animals[4]
