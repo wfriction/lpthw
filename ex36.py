@@ -1,4 +1,4 @@
-# to include: lists, functions, modules
+# note about this - just for learning, not actual cfy
 
 from sys import exit
 from sys import argv
